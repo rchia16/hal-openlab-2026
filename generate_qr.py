@@ -3,7 +3,7 @@ from pathlib import Path
 import qrcode
 import qrcode.image.svg
 
-BASE_URL = "https://rchia16.github.io/hal-openlab/"
+BASE_URL = "https://rchia16.github.io/hal-openlab-2026/"
 
 stations = {
     "00_all_stations": "",
